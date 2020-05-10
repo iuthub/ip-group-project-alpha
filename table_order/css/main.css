@@ -1,0 +1,94 @@
+#header{
+  opacity: inherit;
+  opacity: 0.8;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 85px;
+  background: rgba(5, 5, 5, 0.52)
+}
+
+.navbar ul {
+    width: 55vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+.nav-link {
+    font-family: 'Ribeye Marrow', cursive;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+
+.fa {
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+i{
+  margin: 5px;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.block-17 form .fields
+{
+  width: calc(100% - 140px);
+  position: relative;
+}
+.block-17 form .fields .one-third
+{
+  width: 20%;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.block-17 form .fields .one-third:first-child{
+  width: 20%;
+  padding-right: 10px;
+}
+
+    .owl-carousel.home-slider .slider-item {
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      min-height: 700px;
+      position: relative; }
+      .owl-carousel.home-slider .slider-item .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        content: '';
+        background: #404044;
+        opacity: .5; }
+        .owl-carousel.home-slider .slider-item .slider-text h1 {
+          font-family: "Indie Flower", cursive;
+          font-size: 72px;
+          color: #fff;
+          line-height: 1.2;
+          font-weight: 400; }
