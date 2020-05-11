@@ -19,13 +19,10 @@ Some of my team members i mean devolopers are worked on frontend side on the oth
 
 
 ## About us 
-						Anora Sultonova             U1810074		Member
-                        Riskiya Abrorova            U1810018		Member
-                        Furqatjon Mirzajonov        U1810034		Team leader
-                        Doniyor Kuchkarov           U1810047		Member
-                        Rakhmatullo Rasulov         U1810093		Member
-                        Sardorbek Rakhmonov         U1810055		Member
-
-## Thank you!
-
-
+						Anora Sultonova             		Member
+                        Riskiya Abrorova            		Member
+                        Furqatjon Mirzajonov        		Team leader
+                        Doniyor Kuchkarov           		Member
+                        Rakhmatullo Rasulov         		Member
+                        Sardorbek Rakhmonov         		Member
+This is the alpha team
