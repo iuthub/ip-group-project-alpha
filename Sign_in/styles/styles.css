@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+#container{
+    background-image: url('../images/bgimg.png');
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(5, 5, 5, 0.52);
+    height: 80px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    width: 200px;
+    margin-left: 92.58px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90%;
+}
+
+#form-data{
+    display: grid;
+
+}
+
+.row-name{
+    font-family: Piedra;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 49px;
+    color: black;
+}
+.row input{
+  margin: 15px;
+}
+::placeholder{
+    font-family: Piedra;
+    color: #B76464;
+}
+
+input[type=email], select {
+    font-family: Piedra;
+    color: white;
+    width: 40vw;
+    padding: 8px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.74);
+    border-radius: 10px;
+    border: none;
+}
+
+input[type=password], select {
+    font-family: Piedra;
+    color: white;
+    width: 40vw;
+    padding: 8px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.74);
+    border-radius: 10px;
+    border: none;
+}
+
+.form-label{
+    font-family: Piedra;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #6F4831;
+    text-align: center;
+}
+
+.row a{
+    margin-right: 40px;
+    font-family: Piedra;
+    font-style: normal;
+    font-size: 26px;
+    color: green;
+    text-align: center;
+}
+
+input[type=submit] {
+    font-family: Piedra;
+    font-size: 16px;
+    width: 100%;
+    background: #8BF000;
+    color: white;
+    padding: 8px;
+    margin: 8px 0;
+    cursor: pointer;
+    border: none;
+    clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);
+    border-radius: 10px;
+    margin-top: 60px;
+  }
+
+input[type=submit]:hover{
+    color:#5966DB;
+    background: ;
+  }
