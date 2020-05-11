@@ -27,11 +27,12 @@
 
 	        <div class="collapse navbar-collapse" id="ftco-nav">
 	          <ul class="navbar-nav ml-auto">
-	            <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-	            <li class="nav-item active"><a href="reservation.html" class="nav-link">Reservation</a></li>
-	            <li class="nav-item"><a href="blog.html" class="nav-link">Menu</a></li>
-	            <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	            <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	            <li class="nav-item"><a href="/IP_project/home_page/home.php" class="nav-link">Home</a></li>
+	            <li class="nav-item active"><a href="/IP_project/table_order/reservation.php" class="nav-link">Reservation</a></li>
+	            <li class="nav-item"><a href="/IP_project/Menu/Menu.php" class="nav-link">Menu</a></li>
+	            <li><a class="nav-link" href="/IP_project/Order/Order.php">Order</a></li>
+	            <li class="nav-item"><a href="/IP_project/Aboutus/Aboutus.php" class="nav-link">About Us</a></li>
+	            <li class="nav-item"><a href="/IP_project/contact/index.php" class="nav-link">Contact</a></li>
 							<i class="fa fa-facebook"></i>
 							<i class="fa fa-twitter"> </i>
 	          </ul>

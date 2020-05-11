@@ -85,11 +85,11 @@ function pre_r($array){
             </div>
             <nav id="navbar">
                 <ul>
-                    <li><a class="nav-link" href="/IP_project/Sign_in/home_page/home.php">Home</a> </li>
-                    <li><a class="nav-link" href="">Reservation</a> </li>
-                    <li><a class="nav-link" href="">Menu</a> </li>
-                    <li><a class="nav-link" href="">Shop</a> </li>
-                    <li><a class="nav-link" href="">Order</a> </li>
+                    <li><a class="nav-link" href="/IP_project/home_page/home.php">Home</a> </li>
+                    <li><a class="nav-link" href="/IP_project/table_order/reservation.php">Reservation</a> </li>
+                    <li><a class="nav-link" href="/IP_project/Menu/Menu.php">Menu</a> </li>                    
+                    <li><a class="nav-link" href="/IP_project/Order/Order.php">Order</a> </li>
+                    <li><a class="nav-link" href="/IP_project/Aboutus/Aboutus.php">About Us</a></li>
                     <li><a class="nav-link" href="/IP_project/contact/index.php">Contact</a> </li>
                 </ul>
             </nav>
